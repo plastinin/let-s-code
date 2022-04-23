@@ -49,7 +49,7 @@
 - [OneScript](https://github.com/EvilBeaver/OneScript)
 - [Универсальные инструменты](https://github.com/cpr1c/tools_ui_1c)
 - [Hexlet codebattle](https://github.com/hexlet-codebattle/battle_asserts/tree/master/src/battle_asserts/issues)
-- [Юрий Пермитин](https://t.me/DevQuietPlace) и его статья на Infostart [Вы запускаете приложения, но делаете это без уважения](https://infostart.ru/1c/articles/1266995/)
+- [Юрий Пермитин](https://ypermitin.github.io) и его статья на Infostart [Вы запускаете приложения, но делаете это без уважения](https://infostart.ru/1c/articles/1266995/)
 
 ## Поддержать автора
 
