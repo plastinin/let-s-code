@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="949d3653-bdc9-4444-a796-9a0eba79b058">
+  <name>ИТК_ЗадачиТестированияВызовСервера</name>
+  <synonym>
+    <key>ru</key>
+    <value>ИТК задачи тестирования вызов сервера</value>
+  </synonym>
+  <server>true</server>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+  <serverCall>true</serverCall>
+</mdclass:CommonModule>

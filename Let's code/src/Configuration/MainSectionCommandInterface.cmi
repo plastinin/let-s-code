@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmi:CommandInterface xmlns:cmi="http://g5.1c.ru/v8/dt/cmi">
+  <commandsVisibility>
+    <visibilityFragments>
+      <command>Catalog.ИТК_Задачи.StandardCommand.OpenList</command>
+      <visible>
+        <common>true</common>
+      </visible>
+    </visibilityFragments>
+    <visibilityFragments>
+      <command>DataProcessor.ИТК_ПроведениеТестирования.StandardCommand.Open</command>
+      <visible>
+        <common>true</common>
+      </visible>
+    </visibilityFragments>
+  </commandsVisibility>
+  <commandsPlacement>
+    <placementFragments>
+      <group>NavigationPanelOrdinary</group>
+      <commands>Catalog.ИТК_Задачи.StandardCommand.OpenList</commands>
+    </placementFragments>
+    <placementFragments>
+      <group>ActionsPanelTools</group>
+      <commands>DataProcessor.ИТК_ПроведениеТестирования.StandardCommand.Open</commands>
+    </placementFragments>
+  </commandsPlacement>
+</cmi:CommandInterface>

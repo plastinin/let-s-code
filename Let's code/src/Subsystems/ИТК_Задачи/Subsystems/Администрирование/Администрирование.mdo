@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="31123e73-a6c2-4ef8-9d9b-ac9cbf469f6c">
+  <name>Администрирование</name>
+  <synonym>
+    <key>ru</key>
+    <value>Администрирование</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.ИТК_Задачи</content>
+  <parentSubsystem>Subsystem.ИТК_Задачи</parentSubsystem>
+</mdclass:Subsystem>
