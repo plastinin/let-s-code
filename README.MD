@@ -51,10 +51,6 @@
 - [Hexlet codebattle](https://github.com/hexlet-codebattle/battle_asserts/tree/master/src/battle_asserts/issues)
 - [Юрий Пермитин](https://ypermitin.github.io) и его статья на Infostart [Вы запускаете приложения, но делаете это без уважения](https://infostart.ru/1c/articles/1266995/)
 
-## Поддержать автора
-
-Лучший способ поддержать автора - рассказать в чате канала [Простая логика](simplelogic_chat) о том, как вы применили инструмент, и подписаться на наш YouTube-канал [Команда ИТК](https://www.youtube.com/channel/UCXCFK4G65cNI4soCev0mOWA)
-
 ## Развитие
 
 **Разработка**: 1С: EDT
@@ -115,5 +111,5 @@
 КонецПопытки;
 Сообщить(Результат);
 ```
-2. Выполенение скрипта OneScript с помощью PowerShell
+2. Выполнение скрипта OneScript с помощью PowerShell
 3. Анализ результата выполнения
