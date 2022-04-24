@@ -43,6 +43,8 @@
 ## Публикации
 
 - [1C: Битва 2.0](https://www.youtube.com/watch?v=crZg4xvQJdQ)
+- [Решение задач с 1С: Битва 2.0](https://www.youtube.com/watch?v=1Y8XsGCJF_8)
+- [Cтатья на Инфостарт](https://infostart.ru/public/1650118/)
 
 ## Благодарности
 
