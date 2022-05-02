@@ -46,9 +46,10 @@
 - [Решение задач с 1С: Битва 2.0](https://www.youtube.com/watch?v=1Y8XsGCJF_8)
 - [Cтатья на Инфостарт](https://infostart.ru/public/1650118/)
 
-## Благодарности
+## Благодарность со ссылками на инструменты использующиеся в проекте
 
 - [OneScript](https://github.com/EvilBeaver/OneScript)
+- [Консоль кода для 1С 8.3](https://github.com/salexdv/bsl_console)
 - [Универсальные инструменты](https://github.com/cpr1c/tools_ui_1c)
 - [Hexlet codebattle](https://github.com/hexlet-codebattle/battle_asserts/tree/master/src/battle_asserts/issues)
 - [Юрий Пермитин](https://ypermitin.github.io) и его статья на Infostart [Вы запускаете приложения, но делаете это без уважения](https://infostart.ru/1c/articles/1266995/)

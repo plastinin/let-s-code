@@ -20,4 +20,12 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
+  <templates uuid="18f54ad5-3d7f-452a-a174-559e00ac4ea1">
+    <name>РедакторMonaco</name>
+    <synonym>
+      <key>ru</key>
+      <value>РедакторMonaco</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
 </mdclass:DataProcessor>
