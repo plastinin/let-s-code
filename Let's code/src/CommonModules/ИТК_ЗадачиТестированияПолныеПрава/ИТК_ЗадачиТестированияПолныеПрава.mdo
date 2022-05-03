@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6fbc7ccc-cab0-4cf6-9b64-f33993b7b09d">
-  <name>ИТК_ЗадачиТестированияПривилегированный</name>
+  <name>ИТК_ЗадачиТестированияПолныеПрава</name>
   <synonym>
     <key>ru</key>
-    <value>ИТК задачи тестирования привилегированный</value>
+    <value>ИТК задачи тестирования полные права</value>
   </synonym>
   <server>true</server>
   <privileged>true</privileged>

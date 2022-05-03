@@ -11,9 +11,11 @@
     <picture>StdPicture.AppearanceCheckIcon</picture>
   </picture>
   <content>CommonModule.ИТК_ЗадачиТестированияВызовСервера</content>
-  <content>CommonPicture.ИТК_КартинкаВыбора</content>
   <content>Role.ИТК_ПолныеПрава</content>
   <content>Role.ИТК_УчастникТестирования</content>
+  <content>CommonModule.ИТК_ЗадачиТестированияПолныеПрава</content>
+  <content>CommonModule.ИТК_ОбщегоНазначения</content>
+  <content>CommonModule.ИТК_ОбщегоНазначенияПовтИсп</content>
   <subsystems>Администрирование</subsystems>
   <subsystems>Тестирование</subsystems>
 </mdclass:Subsystem>

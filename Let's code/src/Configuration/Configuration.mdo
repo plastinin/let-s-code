@@ -18,7 +18,7 @@
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <vendor>Пластинин Артем</vendor>
-  <version>1.0.0.1</version>
+  <version>1.0.0.3</version>
   <usedMobileApplicationFunctionalities>
     <functionality>
       <use>true</use>
@@ -46,12 +46,12 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.ИТК_Задачи</subsystems>
-  <commonPictures>CommonPicture.ИТК_КартинкаВыбора</commonPictures>
   <roles>Role.ИТК_ПолныеПрава</roles>
   <roles>Role.ИТК_УчастникТестирования</roles>
   <commonModules>CommonModule.ИТК_ЗадачиТестированияВызовСервера</commonModules>
-  <commonModules>CommonModule.ИТК_ЗадачиТестированияПривилегированный</commonModules>
+  <commonModules>CommonModule.ИТК_ЗадачиТестированияПолныеПрава</commonModules>
   <commonModules>CommonModule.ИТК_ОбщегоНазначения</commonModules>
+  <commonModules>CommonModule.ИТК_ОбщегоНазначенияПовтИсп</commonModules>
   <catalogs>Catalog.ИТК_Задачи</catalogs>
   <reports>Report.ИТК_РезультатыТестирования</reports>
   <dataProcessors>DataProcessor.ИТК_ПроведениеТестирования</dataProcessors>
