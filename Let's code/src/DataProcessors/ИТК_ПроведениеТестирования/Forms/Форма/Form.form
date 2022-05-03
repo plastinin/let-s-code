@@ -408,10 +408,6 @@
                 <event>Selection</event>
                 <name>СписокЗадачВыбор</name>
               </handlers>
-              <handlers>
-                <event>OnActivateRow</event>
-                <name>СписокЗадачПриАктивизацииСтроки</name>
-              </handlers>
               <searchStringAddition>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -659,7 +655,7 @@
                 <bold>true</bold>
               </font>
               <picture xsi:type="core:PictureRef">
-                <picture>0:a1a9dc3b-c1fe-4eb4-9ce1-475f02fe07a6</picture>
+                <picture>StdPicture.GroupConversation</picture>
               </picture>
               <toolTipRepresentation>Auto</toolTipRepresentation>
               <representationInContextMenu>Auto</representationInContextMenu>
