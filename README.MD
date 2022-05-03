@@ -1,5 +1,6 @@
 # Let's code - платформа для решения и проверки задач на встроенном языке 1С: Предприятие
 
+[![Статус порога качества](https://sonar.openbsl.ru/api/project_badges/measure?project=let-s-code&metric=alert_status)](https://sonar.openbsl.ru/dashboard?id=let-s-code)
 [![Join telegram chat](https://img.shields.io/badge/chat-telegram-blue?style=flat&logo=telegram)](https://t.me/simplelogic) 
 [![Last release](https://img.shields.io/github/v/release/plastinin/let-s-code?include_prereleases&label=last%20release&style=badge)](https://github.com/plastinin/let-s-code/releases/latest)
 [![download](https://img.shields.io/github/downloads/plastinin/let-s-code/total)](https://github.com/plastinin/let-s-code/releases/download/latest/1cv8.cf)
