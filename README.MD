@@ -59,7 +59,7 @@
 
 **Разработка**: 1С: EDT
 
-**Руководство контрибьтора**: [Руководство контрибьютора проекта Let's code](https://github.com/plastinin/let-s-code/blob/develop/docs/README.md)
+**Руководство контрибьтора**⚒: [в соответствуещем разделе документации](https://github.com/plastinin/let-s-code/blob/develop/docs/README.md)
 
 **Бэклог задач**: [Issues](https://github.com/plastinin/let-s-code/issues)
 
